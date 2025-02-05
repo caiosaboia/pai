@@ -15,13 +15,13 @@
   - 6,7 ano
   - matematica
   - frações
-  -
+  - 2014 até 2024
 
 # Artigos
 
 ## Google Scholar
 
-#### _"O ensino da fração"_
+#### **"O ensino da fração"**
 
 > :memo: **Note:** Exemplo abaixo.
 
@@ -32,3 +32,5 @@
   - Data: dd/mm/aaaa.
 
 -
+
+## SciELO

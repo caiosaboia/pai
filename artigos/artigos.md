@@ -19,9 +19,11 @@
 
 # Artigos
 
-## Google Scholar
+## 1. Google Scholar
 
-### "O ensino da fração"
+#### "O ensino da fração"
+
+> :memo: **Note:** Exemplo abaixo.
 
 - Nome: [A Aprendizagem dos Números Racionais](https://revistas.rcaap.pt/index.php/quadrante/article/download/22785/16851)
 

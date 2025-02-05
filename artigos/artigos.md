@@ -19,16 +19,16 @@
 
 # Artigos
 
-## 1. Google Scholar
+## Google Scholar
 
-#### "O ensino da fração"
+#### _"O ensino da fração"_
 
 > :memo: **Note:** Exemplo abaixo.
 
 - Nome: [A Aprendizagem dos Números Racionais](https://revistas.rcaap.pt/index.php/quadrante/article/download/22785/16851)
 
-  - Tipo: Artigo
-  - Autores: Oliveira, Antonio Sergio dos Santos
-  - Data: dd/mm/aaaa
+  - Tipo: Artigo;
+  - Autores: Oliveira, Antonio Sergio dos Santos;
+  - Data: dd/mm/aaaa.
 
 -

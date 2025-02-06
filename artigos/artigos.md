@@ -126,10 +126,10 @@ FRAÇÕES](https://www.researchgate.net/profile/Americo-Silva/publication/348408
   - autores: Rogéria Malacrida Menotti;
   - data: 2024;
 
-- nome: []()
+- nome: [Efeito do treino de composição (cópia) na aprendizagem do conceito de proporção](https://www.scielo.br/j/ptp/a/SjnfRCwSCmnrkNBnDBnwpyz/?lang=pt)
   - tipo: Artigo;
-  - autores: ;
-  - data: ;
+  - autores: Antonio Carlos Godinho Santos, Lorismario Ernesto Simonassi, Camila Fernandes Rodrigues, Maira Ribeiro Magri ;
+  - data: dezembro de 2014;
 
 - nome: []()
   - tipo: Artigo;

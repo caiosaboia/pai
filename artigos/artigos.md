@@ -20,7 +20,7 @@
 
 ## Google Scholar
 
-#### "O ensino da fração"
+### "O ensino da fração"
 
 - Nome: [O ensino de frações via resolução de problemas na formação de futuras professoras de pedagogia](https://www.scielo.br/j/bolema/a/ddDHjNk7DNxYtkGCSgCbzxB/)
   - tipo: Artigo;
@@ -70,4 +70,74 @@ FRAÇÕES](https://www.researchgate.net/profile/Americo-Silva/publication/348408
   - autores:  Kêite Ferreira de Almeida,  Roberto Barcelos Souza;
   - data: novembro de 2020;
 
+- nome: [ FRAÇÕES E SUAS MÚLTIPLAS INTERPRETAÇÕES: reflexões sobre o ensino e a aprendizagem ](https://www.histemat.com.br/index.php/HISTEMAT/article/view/388)
+  - tipo: Artigo;
+  - autores: Vania Sara Doneda de Oliveira, Maria Ivete Basniak;
+  - data: julho de 2021;
+
+- nome: [A superação do erro no estudo de frações: uma discussão quanto a contribuições de TIC's e de materiais manipulados ](https://ufs.emnuvens.com.br/ReviSe/article/view/9836)
+  - tipo: Artigo;
+  - autores: Tatiéle Carla Costella Simoni, Nilce Fátima Scheffer;
+  - data: abril de 2019;
+
+- nome: [ Análise de erros em questões de adição e subtração com frações ](https://periodicos.uepa.br/index.php/web-mat/article/view/265)
+  - tipo: Artigo;
+  - autores: Igor Augusto Sampaio da Costa de Melo, Pedro Henrique Freitas Andrade; 
+  - data: fevereiro de 2014;
+
+- nome: [Ensino-aprendizagem de adição de frações via resolução de problemas](http://www.scielo.org.co/scielo.php?pid=S0121-38142022000200303&script=sci_arttext)
+  - tipo: Artigo;
+  - autores: Caio Shindi Akamine, Marcelo Carlos de Proença;
+  - data: janeiro de 2023;
+
+- nome: [ Do Cotidiano ao Contexto Escolar: limites e possibilidades de compreensão de conceitos implícitos no estudo das frações ](https://rebena.emnuvens.com.br/revista/article/view/28)
+  - tipo: Artigo;
+  - autores:  Helloyne Robeta E. M. Amorim;
+  - data: janeiro de 2022;
+
+- nome: [REFLEXÕES ACERCA DO DESEMPENHO E DAS DIFICULDADES DE ESTUDANTES DA EDUCAÇÃO BÁSICA E SUPERIOR NAS OPERAÇÕES COM FRAÇÕES
+](https://periodicos.ufs.br/ReviSe/article/view/11840)
+  - tipo: Artigo;
+  - autores:  Teresa Cristina Etcheverria, Viviane de Jesus Lisboa Aquino, Jackeline dos Santos Oliveira, Caroline de Carvalho Lisboa;
+  - data: outubro de 2019;
+
+- nome: [ Uma Proposta de Ensino-Aprendizagem das Operações Aritméticas com Frações via Resolução de Problemas ](https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/1632)
+  - tipo: Artigo;
+  - autores:  Marcelo Carlos de Proença;
+  - data: outubro de 2019;
+
+- nome: [CÁLCULO MENTAL COM FRAÇÕES: EVOLUÇÃO DAS ESTRATÉGIAS DOS ALUNOS NUMA EXPERIÊNCIA DE ENSINO](https://revista.uepb.edu.br/REM/article/download/1981/1609)
+  - tipo: Artigo;
+  - autores: Renata Carvalho, João Pedro da Ponte;
+  - data: outubro de 2017;
+
+- nome: [O ensino de matemática por meio da resolução de problemas: metanálise de propostas nos 6º e 7º anos do ensino fundamental](https://revistas.pucsp.br/emp/article/view/34878)
+  - tipo: Artigo;
+  - autores:  Marcelo Carlos de Proença;
+  - data: maio de 2018;
+
+- nome: [Quando As Frações Não São Apenas Partes de Um Todo…](https://revistas.pucsp.br/emp/article/view/51571)
+  - tipo: Artigo;
+  - autores: Sofia Isabel Graça, João Pedro da Ponte, António Guerreiro;
+  - data: abril de 2021;
+
+- nome: [Frações e suas operações : resolução de problemas em uma trajetória hipotética de aprendizagem](https://bdtd.ibict.br/vufind/Record/UEL_d6e433c2f8981da7c56bc33c33f46139)
+  - tipo: Dissertação;
+  - autores: Rogéria Malacrida Menotti;
+  - data: 2024;
+
+- nome: []()
+  - tipo: Artigo;
+  - autores: ;
+  - data: ;
+
+- nome: []()
+  - tipo: Artigo;
+  - autores: ;
+  - data: ;
+
+- nome: []()
+  - tipo: Artigo;
+  - autores: ;
+  - data: ;
 ## BDTD

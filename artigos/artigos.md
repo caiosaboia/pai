@@ -131,13 +131,70 @@ FRAÇÕES](https://www.researchgate.net/profile/Americo-Silva/publication/348408
   - autores: Antonio Carlos Godinho Santos, Lorismario Ernesto Simonassi, Camila Fernandes Rodrigues, Maira Ribeiro Magri ;
   - data: dezembro de 2014;
 
-- nome: []()
+- nome: [O lúdico no ensino de Matemática: uma revisão sobre o uso de jogos didáticos no processo de ensino-aprendizagem](https://bio10publicacao.com.br/jesh/article/view/187)
   - tipo: Artigo;
-  - autores: ;
-  - data: ;
+  - autores: Eduarda Medran Rangel, Adrize Medran Rangel;
+  - data: fevereiro de 2023;
 
-- nome: []()
+- nome: [Uso da plataforma Hypatiamat e de artefactos concretos na compreensão dos números racionais não negativos](https://comum.rcaap.pt/handle/10400.26/36897)
+  - tipo: Dissertação;
+  - autores: Ana Sofia Ferreira Serra, Fernando Manuel Lourenço Martins, Virgílio José Monteiro Rato;
+  - data: 2021;
+  - obs: anos iniciais(3 ano).
+
+- nome: [Conhecimento matemático para o ensino através do Estado da Arte envolvendo Números Racionais em pesquisas brasileiras](https://www.revistas.uneb.br/index.php/baeducmatematica/article/view/12450) 
   - tipo: Artigo;
-  - autores: ;
-  - data: ;
+  - autores:  Paulo César Oliveira, Beatriz Zero, Reynaldo D'Alessandro Neto;
+  - data: setembro de 2021;
+
+- nome [Contribuições dos jogos matemáticos e modelagem Matemática   no   ensino   da Matemática](https://rsdjournal.org/index.php/rsd/article/view/24886) 
+  - tipo: Artigo;
+  - autores: Alana Cavalcante Felippe,  Shirley da Silva Macedo;
+  - data: janeiro de 2022;
+  - obs: Nao fala de frações, mas pode ser interessante.
+
+  - nome [A PRODUÇÃO DE PERFORMANCE MATEMÁTICA DIGITAL A
+PARTIR DA OBRA “O DIABO DOS NÚMEROS](https://scholar.archive.org/work/xmcrd4kajzazjlu3smi35mggyy/access/wayback/http://revistapos.cruzeirodosul.edu.br/index.php/rencima/article/download/2037/1190) 
+  - tipo: Artigo;
+  - autores: Aline de Lima Brum, Carla Denize Ott Felcher, Celiane Costa Machado, Elaine Corrêa Pereira;
+  - data: janeiro de 2019;
+
+- nome: [Operações com Números Inteiros e Racionais de Forma Lúdica](https://repositorio.ufba.br/handle/ri/23312) 
+  - tipo: Dissertação;
+  - autores: Marília Caribé Ribeiro Sales;
+  - data: junho de 2017;
+
+- nome [Prática educacional no ato de ensinar e aprender matemática nos anos
+finais do ensino fundamental por meio do processo - RICA: Raciocínio
+lógico, Inteligência matemática, Criatividade e Aprendizagem](https://www.researchgate.net/profile/Elis-Coelho/publication/352021389_Pratica_educacional_no_ato_de_ensinar_e_aprender_matematica_nos_anos_finais_do_ensino_fundamental_por_meio_do_processo_-_RICA_Raciocinio_logico_Inteligencia_matematica_Criatividade_e_Aprendizagem_Educ/links/60c89771299bf108abd9e49a/Pratica-educacional-no-ato-de-ensinar-e-aprender-matematica-nos-anos-finais-do-ensino-fundamental-por-meio-do-processo-RICA-Raciocinio-logico-Inteligencia-matematica-Criatividade-e-Aprendizagem-E.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9) 
+  - tipo: Artigo;
+  - autores: Edel Alexandre Silva Pontes, Helloyne Roberta Eloi Moura, Elis Lima Coelho, Bruno Henrique Macêdo dos Santos Silva, Igor Santana Batista
+  - data: maio de 2021;
+
+
+- nome: [Tecnologias digitais e ensino de matemática: o uso de Facebook no processo de ensino dos números racionais](https://repositorio.ufpel.edu.br/handle/prefix/3629) 
+  - tipo: Artigo;
+  - autores: Carla Denize Ott Felcher;
+  - data: dezembro de 2017;
+
+- nome: [ O erro no processo de ensino-aprendizagem da matemática: errar é preciso](https://periodicos.ufrrj.br/index.php/gepem/article/view/13) 
+  - tipo: Artigo;
+  - autores: Alina Galvão Spinillo, Auxiliadora Baraldi Pacheco, Juliana Ferreira Gomes, Luciano Cavalcanti;
+  - data: janeiro de 2014;
+
+- nome: [ ERROS COMETIDOS PELOS ALUNOS DE 6.º ANO A OPERAR COM NÚMEROS RACIONAIS ](https://revistas.rcaap.pt/uiips/article/view/16115) 
+  - tipo: Artigo;
+  - autores: Liliana Almeida, Neusa Branco;
+  - data: dezembro de 2021
+
+
+- nome: [Formação continuada para o uso de tecnologias digitais no ensino de ciências e matemática dos anos iniciais: possibilidade(s) de desenvolvimento profissional](https://bdtd.ibict.br/vufind/Record/UVAT_6189e767137a8e607a0af3ec8b7e0340)
+  - tipo: Dissertação;
+  - autores: Rejane Bianchini, Marli Teresinha Quartieri;
+  - data: 2020;
+
+
+
+
+
 ## BDTD

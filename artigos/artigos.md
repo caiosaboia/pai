@@ -195,6 +195,12 @@ lógico, Inteligência matemática, Criatividade e Aprendizagem](https://www.res
 
 
 
+### "Frações e PCN"
+
+- nome: [Currículo Prescrito para o Ensino de Frações no Ensino Fundamental](https://jieem.pgsscogna.com.br/jieem/article/view/8457)
+  - tipo: Artigo;
+  - autores: Maria de Fátima Rico Abade Lima, Angelica da Fontoura Garcia Silva;
+  - data: dezembro 2021;
 
 
 ## BDTD

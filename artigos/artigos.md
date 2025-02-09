@@ -295,6 +295,32 @@ lógico, Inteligência matemática, Criatividade e Aprendizagem](https://www.res
   - data: junho de 2021;
   - obs: nao tem fraçoes ou anos finais, mas é um trabalho interessante;
   
+- nome: [Raciocínio Argumentativo em Matemática no PISA e na BNCC: uma investigação com estudantes da Educação Básica](https://periodicos.ufrrj.br/index.php/gepem/article/view/449) 
+  - tipo: artigo;
+  - autores: Carlos Augusto Aguilar Júnior, João Carlos Caldato;
+  - data: janeiro de 2021;
+  - obs: nao fala de fraçao;
+
+- nome: [Um olhar historiográfico da BNCC no período de 2015 a 2018: que álgebra é proposta?](https://repositorio.ufms.br/handle/123456789/10966) 
+  - tipo: Tese;
+  - autores: Adriano da Fonseca Melo;
+  - data: 2024
+  - obs: nao fala de fraçao, mas é interessante;
+  
+- nome: [Articulações entre Tendências da Educação Matemática e a BNCC: Ações necessárias para professores em formação se tornarem construtores de tarefas](https://revistas.pucsp.br/emd/article/view/62098) 
+  - tipo: artigo;
+  - autores: Érick André Lima Machado, Clarissa Raimundo de Ataíde, José Messildo Viana Nunes, Elizabeth Gomes Souza;
+  - data: agosto de 2024;
+  - obs: nao fala de fraçao e nem de anos finais, mas é interessante;
+
+- nome: [CONCEPÇÕES DAS TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO PRESENTES NA BNCC DA ÁREA DE MATEMÁTICA E SUAS TECNOLOGIAS](https://d1wqtxts1xzle7.cloudfront.net/109831901/sergioabranches_2C_256901-223629.pdf_filename_UTF-8sergioabranches_2C_256901-223629-libre.pdf?1704042585=&response-content-disposition=inline%3B+filename%3DConcepcoes_das_Tecnologias_Digitais_de_I.pdf&Expires=1739123857&Signature=ahv5twR5SvXi73tV0v7rjYvA76PBz1dqer4cf-R7wB8yCPS9~x0~LxVRBOZC-qQ5lKxKDspegi1pWOVR21Lo2~rmyUne9QEEdADq1d8ByYX2TQKxa74-aqD2Rtx9NL8rJDuJWGQAMw7xSvvCuSorZdheVpS64wwnFjAXbS0628tjPUEarh4uD-mey7XZ1GOswmPuFrAGAB3AoZLfj0jr2LR8Fq4z1FGvilClUfKCWmnOWbSz~iRudL-qP60AUR6ijTr1Zc~a2F44IxWnDrjMBMOJpbcUfCTNXXFK42Tl8Cd3bS1PyUaaaCkLQjSOXEemzR753gWY1WZDppJsGpH9gA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+  - tipo: artigo;
+  - autores: Ronaldo Lage Figueiredo, Stella Maria Peixoto de Azevedo Pedrosa;
+  - data: 2023;
+  - obs: nao fala de fraçao e nem de anos finais, mas é interessante;
+
+
+### "BNCC do 7 ano"
 
 
 

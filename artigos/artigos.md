@@ -193,6 +193,42 @@ lógico, Inteligência matemática, Criatividade e Aprendizagem](https://www.res
   - autores: Rejane Bianchini, Marli Teresinha Quartieri;
   - data: 2020;
 
+- nome: [Cálculo Mental Com números Racionais: Um Estudo Com Alunos Do 6º Ano De Escolariedade](https://www.proquest.com/openview/e340a3d539c249c7c598a16855c99587/1?pq-origsite=gscholar&cbl=2026366&diss=y)
+  - tipo: Tese:
+  - autores: Renata Anjos Carvalho Carrapiço;
+  - data: 2016;
+ 
+- nome: [Criação de jogo matemático digital com crianças e jovens surdos: contribuições da pedagogia visual](https://periodicos.uepa.br/index.php/cocar/article/view/2845)  
+  - tipo: artigo;
+  - autores:  Henrique Wakimoto de Almeida,  Josimara Cristina da Silva,  Heloísa Andreia de Matos Lins;
+  - data: dezembro de 2019;
+
+- nome: [As discussões matemáticas na aula exploratória como vertente da prática profissional do professor](https://repositorio.ulisboa.pt/handle/10451/22604)
+  - tipo: artigo;
+  - autores: João Pedro da ponte, Marisa Quaresma;
+  - data: junho de 2015;
+
+- nome: [Cálculo mental com números racionais e desenvolvimento do sentido de número](https://quadrante.apm.pt/article/view/23017) 
+ - tipo: artigo;
+ - autores: Renata Carvalho, João Pedro da Ponte;
+ - data: dezembro de 2019;
+
+- nome: [O USO DO APLICATIVO SOCRATIVE COMO FERRAMENTA DE DIAGNÓSTICO E INTERVENÇÃO NO ENSINO DA MATEMÁTICA](https://ciet.ufscar.br/submissao/index.php/ciet/article/view/1573) 
+  - tipo: artigo;
+  - autores: Terezinha Marisa Ribeiro de Oliveira, Carmem Lúcia Costa Amaral;
+  - data: abril de 2024;
+  - obs: 9 ano e não é um artigo;
+
+
+- nome: [SEQUÊNCIA DIDÁTICA ELETRÔNICA COM A TEMÁTICA NÚMEROS DECIMAIS PARA O 6º ANO DO ENSINO FUNDAMENTAL](https://www.sbembrasil.org.br/periodicos/index.php/EMR-RS/article/view/1516) 
+ - tipo: artigo;
+ - autores:  Rosana Pinheiro Fiuza, Claudia Lisete Oliveira Groenwald;
+ - data: outubro de 2016;
+
+- nome: [Jogo Digital como Auxílio no Estudo da Matemática: Um Estudo de Caso com Estudantes do Ensino Fundamental I](https://sol.sbc.org.br/index.php/wie/article/view/16290) 
+  - tipo: artigo;
+  - autores: Pedro Henrique Macêdo, Mirele Moutinho Lima, Wylliams Santos;
+  - data: outubro de 2017;
 
 
 ### "Frações e PCN"
@@ -201,6 +237,71 @@ lógico, Inteligência matemática, Criatividade e Aprendizagem](https://www.res
   - tipo: Artigo;
   - autores: Maria de Fátima Rico Abade Lima, Angelica da Fontoura Garcia Silva;
   - data: dezembro 2021;
+
+
+### "BNCC"
+
+- nome: [História da matemática, tecnologias digitais e investigação matemática no ensino de unidades temáticas de matemática da BNCC para o 8º ano](https://bdtd.ibict.br/vufind/Record/UFRN_38bf33c90bbf852b55512277d7876032)
+  - tipo: Dissertação;
+  - autores: Alison Luan Ferreira da Silva, Giselle Costa de Sousa;
+  - data: 2019;
+  - obs: Nao fala de fraçao e é do 8 ano;
+
+- nome: [Pensamento Computacional integrado à Matemática na BNCC: proposta para o primeiro ano do Ensino Fundamental](https://sol.sbc.org.br/index.php/sbie/article/view/18124)
+  - tipo: artigo;
+  - autores: Eduardo Abreu Xavier, Luciana Foss, Simone André da Costa Cavalheiro, Maria Arlita da Silveira Soares, Leugim C. Romio;
+  - data: novembro de 2021;
+  - obs: nao fala de fraçao e nem de anos finais.
+
+- nome: [Softwares no ensino de matemática um olhar sobre a BNCC](https://revistas.uece.br/index.php/BOCEHM/article/view/4961) 
+  - tipo: artigo;
+  - autores: João Paulo Costa Ventura, Cristiane Ruiz Gomes;
+  - data: junho de 2021;
+  - obs: nao fala de fração e nem de 6 ano.
+
+- nome: [Álgebra nos Anos Finais do Ensino Fundamental: reflexões a partir dos PCN e da BNCC para construção do pensamento algébrico significativo](https://portal.amelica.org/ameli/jatsRepo/509/5092220010/html/) 
+  - tipo: artigo;
+  - autores: Malcus Cassiano Kuhn, Eveline de Lima;
+  - data: maio de 2021;
+  - obs: nao fala de fraçoes;
+
+- nome: [ENSINO DA MATEMÁTICA CONVERGENTE COM A BNCC 2017](https://sbemmatogrosso.com.br/publicacoes/index.php/coinspiracao/article/view/50)
+  - tipo: artigo;
+  - autores:  Giselle Couto Falcão;
+  - data: junho de 2019;
+  - obs: nao fala de fraçao;
+
+- nome: [A BNCC, a sala de aula de Matemática e possibilidades metodológicas](https://periodicos2.uesb.br/index.php/intermaths/article/view/9993) 
+  - tipo: artigo;
+  - autores: Eurivalda Ribeiro dos Santos Santana;
+  - data: dezembro de 2021;
+  - obs: nao fala de fraçao e é bem interessante;
+
+- nome: [Educação Matemática Crítica, Pedagogia de Paulo Freire e Tecnologias Digitais: aproximações ou distanciamentos em relação à BNCC](https://periodicos.ufrrj.br/index.php/gepem/article/view/654) 
+  - tipo: artigo;
+  - autores: Jaqueline Zandonay, Nilce Fátima Scheffer;
+  - data: dezembro de 2022;
+  - obs: é bem interessante;
+
+- nome: [Possibilidades de uso das Tecnologias de Informação e Comunicação para a promoção da Alfabetização Matemática segundo as diretrizes das Bases Nacionais Comuns Curriculares (CCNB)](https://rsdjournal.org/index.php/rsd/article/view/34637) 
+  - tipo: artigo;
+  - autores: Mário Jorge Nunes Costa, Josiane Marques Duarte Almeida, Josiane Silva dos Reis, Maria Jose Costa dos Santos;
+  - data: setembro de 2022;
+  - obs: nao tem fraçoes ou anos finais, mas é um trabalho interessante;
+
+- nome: [O currículo de Matemática do Ensino Médio sob a luz da BNCC](https://periodicos.ufjf.br/index.php/RPDE/article/view/31896) 
+  - tipo: artigo;
+  - autores: Manoel dos Santos Costa, Thiago Brandão Ericeira, Célia Barros Nunes;
+  - data: junho de 2021;
+  - obs: nao tem fraçoes ou anos finais, mas é um trabalho interessante;
+  
+
+
+
+
+
+
+
 
 
 ## BDTD

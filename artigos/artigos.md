@@ -233,9 +233,72 @@ lógico, Inteligência matemática, Criatividade e Aprendizagem](https://www.res
 ### "Frações e PCN"
 
 - nome: [Currículo Prescrito para o Ensino de Frações no Ensino Fundamental](https://jieem.pgsscogna.com.br/jieem/article/view/8457)
-  - tipo: Artigo;
+  - tipo: artigo;
   - autores: Maria de Fátima Rico Abade Lima, Angelica da Fontoura Garcia Silva;
   - data: dezembro 2021;
+
+- nome: [Diagnóstico de conhecimentos sobre frações com estudantes do 7º ano e intervenções com recurso tecnológico PHET](http://editoralicuri.com.br/index.php/ojs/article/view/409) 
+  - tipo: artigo;
+  - autores: Grinalva Ferreira Alves Medeiros, Samuel Francisco Huf, Viviane Barbosa de Souza Huf;
+  - data: dezembro 2023;
+  - obs: apenas pesquisa;
+
+
+- nome: [Práticas no ensino de frações em escolas da rede privada no município de João Pessoa-PB](https://repositorio.ufpb.br/jspui/handle/123456789/24119) 
+  - tipo: TCC;
+  - autores: Mário José do Nascimento Neto, Vinícius Martins Varella;
+  - data: junho de 2022;
+  
+- nome: [Abordagem de frações equivalentes : uma experiência no 6º ano do ensino fundamental](https://lume.ufrgs.br/handle/10183/212591) 
+  - tipo: Dissertação;
+  - autores: Roseane Nunes Garcia de Souza, Cydara Cavedon Ripoll
+  - data: 2019;
+
+- nome: [A utilização de materiais manipulativos como uma ferramenta auxiliar no processo de ensino e aprendizagem de frações no 6º ano](https://repositorio.ueg.br/jspui/handle/riueg/3204) 
+  - tipo: TCC;
+  - autores: Walesca Myrelly Thomé, Amábile Jeovana Neiris Mesquita;
+  - data: novembro 2017;
+
+- nome: [A mobilização de saberes matemáticos de alunos do 6º ano do ensino fundamental por meio de sequências didáticas envolvendo o conteúdo frações](https://riu.ufam.edu.br/handle/prefix/5655) 
+  - tipo: TCC;
+  - autores: Moriel Moura Tenório,Leonardo Dourado de Azevedo Neto;
+  - data: 2019;
+
+- nome: [APRENDIZAGEM DE FRAÇÕES COM SOFTWARES E APLICATIVOS MATEMÁTICOS ONLINE](https://core.ac.uk/download/pdf/79834333.pdf) 
+ - tipo: dissertação;
+ - autores: Marcos Henrique Pereira Paiva;
+ - data: junho de 2019;
+
+- nome: [Frações: Referências para o ensino no 6º ano à luz da Teoria dos Campos Conceituais](https://www.bdtd.uerj.br:8443/handle/1/19097) 
+  - tipo: Dissertação;
+  - autores: Viviane Souza Pereira Paula;
+  - data: junho 2020;
+
+- nome: [Aprendizagem de frações por meio de aplicativos gamificados](https://ri.ufs.br/handle/riufs/20350) 
+  - tipo: dissertação;
+  - autores: Flaviano Gomes Nascimento;
+  - data: maio de 2023;
+
+- nome: [Ensinando frações com jogos digitais organizados sob a teoria dos registros de representação semiótica ](https://periodicos.uninove.br/dialogia/article/view/22220) 
+  - tipo: artigo;
+  - autores:  Marco Antônio Sandini Trentin,  Leandro Boszko;
+  - data: setembro de 2022;
+
+- nome: [ ESTUDO DE FRAÇÕES NOS ANOS FINAIS DO ENSINO FUNDAMENTAL I: A utilização de jogos lúdicos no ensino-aprendizagem de frações ](https://revista.unifagoc.edu.br/index.php/multidisciplinar/article/view/507) 
+  - tipo: artigo;
+  - autores:  Larissa Soares Oliveira Silva,  Milena Rosa Lage,  Sulamita Almeida Cardoso Gonçalves,  Ana Amélia de Souza Pereira,  Ludmilla Carneiro Araujo;
+  - data: janeiro de 2020;
+  - obs: fala de 4 e 5 ano;
+
+
+
+
+
+
+
+
+
+
 
 
 ### "BNCC"

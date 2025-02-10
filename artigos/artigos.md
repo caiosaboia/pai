@@ -322,9 +322,48 @@ lógico, Inteligência matemática, Criatividade e Aprendizagem](https://www.res
 
 ### "BNCC do 7 ano"
 
+- nome: [Potencialidades e limitações de propostas de ensino com uso da reta numérica como suporte para as operações básicas com números inteiros no 7º ano do ensino fundamental](https://repositorio.ufpb.br/jspui/handle/123456789/27729) 
+  - tipo: TCC;
+  - autores: Tatiane Silva Gonzaga, Cibelle de Fátima Castro de Assis;
+  - data: dezembro de 2021;
+  - nao fala de fraçao;
+  
+- nome: [Análise dos indicadores de álgebra na Prova SAEB dos alunos do ensino fundamental](https://www.researchgate.net/profile/George-Martin-3/publication/379221564_ANALISE_DOS_INDICADORES_DE_ALGEBRA_NA_PROVA_SAEB_DOS_ALUNOS_DO_ENSINO_FUNDAMENTAL/links/65ff7449f3b56b5b2d25c5f8/ANALISE-DOS-INDICADORES-DE-ALGEBRA-NA-PROVA-SAEB-DOS-ALUNOS-DO-ENSINO-FUNDAMENTAL.pdf)  
+  - tipo: artigo;
+  - autores: Igor Vaz de Camargo, Jonis Jecks Nervis, George Francisco Santiago Martin;
+  - data: dezembro de 2024;
+  - obs: nao fala de fraçao, mas é interessante olhar;
+ 
+- nome [Uma abordagem da álgebra dentro do currículo do ensino fundamental: mudanças e proposta para sala de aula](https://repositorio.ufersa.edu.br/items/91060c51-f404-4fe5-9ce0-61b5d4a60f59) 
+  - tipo: Dissertação;
+  - autores: Bruno Reuber Maia Pinheiro;
+  - data: novembro de 2021;
+  - obs: nao fala de fraçao, mas é interessante olhar;
+
+- nome: [Processos de raciocínio matemático mobilizados por alunos do 7º ano durante a resolução de problemas](https://repositorio.utfpr.edu.br/jspui/handle/1/31547) 
+  - tipo: Dissertação;
+  - autores: Nilva Márcia Dallago Júlio, Eliane Maria de Oliveira Araman;
+  - data: março de 2023;
+  - obs: nao fala de fraçao, mas é interessante olhar;
+
+- nome: [Matemática e música em uma sequência didática para o ensino de frações no 7º ano do ensino fundamental](https://memoria.ifrn.edu.br/handle/1044/2343) 
+  - tipo: TCC;
+  - autores: Maria Joalice Azevedo Faustino;
+  - data: abril de 2023;
 
 
+- nome: [Apps para o Ensino de Matemática: Descritores como Metadados para Busca de um Repositório de Objetos de Aprendizagem](http://milanesa.ime.usp.br/rbie/index.php/wcbie/article/view/8318) 
+  - tipo: artigo;
+  - autores: Elvis Melo, Clésia Nunes;
+  - data: 2018;
+  - obs: nao fala de fraçao nem anos finais, mas vale a pena dar uma olhada;
+  
 
+- nome: [Matemática na Base Nacional Comum Curricular para o ensino fundamental: o que é dito sobre as tecnologias digitais?](https://periodicos.unespar.edu.br/ensinoepesquisa/article/view/7211) 
+  - tipo: artigo;
+  - autores: Gabriela Artini da Silva, Queli Ghilardi Cancian, Vilmar Malacarne;
+  - data: outubro de 2023;
+  - obs: nao fala de fraçao nem anos finais, mas vale a pena dar uma olhada;
 
 
 

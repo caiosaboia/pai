@@ -28,8 +28,7 @@
   - data: agosto de 2015;
   - obs: anos finais.
 
-- Nome: [DOMINÓ FRACIONÁRIO: USO DO MATERIAL DIDÁTICO PARA O ENSINO DE
-FRAÇÕES](https://www.researchgate.net/profile/Americo-Silva/publication/348408807_DOMINO_FRACIONARIO_USO_DO_MATERIAL_DIDATICO_PARA_O_ENSINO_DE_FRACOES/links/5ffd7cdb299bf140888ca321/DOMINO-FRACIONARIO-USO-DO-MATERIAL-DIDATICO-PARA-O-ENSINO-DE-FRACOES.pdf)
+- Nome: [DOMINÓ FRACIONÁRIO: USO DO MATERIAL DIDÁTICO PARA O ENSINO DE FRAÇÕES](https://www.researchgate.net/profile/Americo-Silva/publication/348408807_DOMINO_FRACIONARIO_USO_DO_MATERIAL_DIDATICO_PARA_O_ENSINO_DE_FRACOES/links/5ffd7cdb299bf140888ca321/DOMINO-FRACIONARIO-USO-DO-MATERIAL-DIDATICO-PARA-O-ENSINO-DE-FRACOES.pdf)
   - tipo: Artigo;
   - autores: Evaldo da Silva Vieira, Américo Junior Nunes da Silva;
   - data: 2019;
@@ -365,7 +364,29 @@ lógico, Inteligência matemática, Criatividade e Aprendizagem](https://www.res
   - data: outubro de 2023;
   - obs: nao fala de fraçao nem anos finais, mas vale a pena dar uma olhada;
 
+- nome [Tecnologias digitais nos currículos prescritos de Matemática no Brasil e em Portugal](http://educa.fcc.org.br/scielo.php?pid=S1983-17302020000301077&script=sci_arttext) 
+  - tipo: artigo;
+  - autores: Marcelo de Oliveira Dias, Leonor Santos, Jonei Cerqueira Barbosa;
+  - data: dezembro de 2023;
+  - obs: nao fala de fraçao nem anos finais, mas vale a pena dar uma olhada;
 
+- nome: [EXPERIÊNCIAS DO PENSAMENTO COMPUTACIONAL NO ENSINO DE CIÊNCIAS E MATEMÁTICA](https://seer.upf.br/index.php/rbecm/article/view/12853) 
+  - tipo: artigo;
+  - autores: Carine Webber, Camila De Cesaro, Deise Guder, Diego Flores, Joana Valim Becker;
+  - data: fevereiro de 2022;
+  - obs: nao fala de fraçao, mas vale a pena dar uma olhada;
+
+- nome: [ATIVIDADES DE METODOLOGIAS ATIVAS PARA MATEMÁTICA COM ELEMENTOS DIDÁTICOS DA BNCC](https://rbpg.capes.gov.br/rbpg/article/view/1706) 
+  - tipo: artigo;
+  - autores: João Socorro Pinheiro Ferreira;
+  - data: janeiro de 2020;
+  - obs: nao fala de fraçao;
+  
+- nome: [Investigando o ensino e a aprendizagem de multiplicação de frações : um estudo com alunos do 6º ano](https://lume.ufrgs.br/handle/10183/220068) 
+  - tipo: Disseraçao;
+  - autores: Daiana dos Santos Oliveira Fischer, Cydara Cavedon Ripoll;
+  - data: 2020;
+  - obs: nao fala de fraçao;
 
 
 

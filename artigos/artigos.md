@@ -290,6 +290,149 @@ lógico, Inteligência matemática, Criatividade e Aprendizagem](https://www.res
   - data: janeiro de 2020;
   - obs: fala de 4 e 5 ano;
 
+- nome: [O ensino dos números racionais por meio de atividades de pesquisa investigação](https://dialnet.unirioja.es/servlet/articulo?codigo=6750770) 
+  - tipo: artigo;
+  - autores: Carla Denize Ott Felcher, André Luis Andrejew Ferreira;
+  - data: dezembro de 2018;
+  - obs: nao fala de anos finas;
+
+- nome: [O ESTUDO DE FRAÇOES A PARTIR DE UMA PERSPECTIVA CONCEITUAL – PROPOSTA DE SEQUÊNCIA DIDÁTICA PARA O 7o ANO DO ENSINO FUNDAMENTAL](https://sappg.ufes.br/tese_drupal/tese_15853_Disserta%E7%E3o_Sueli.Cruz.Pereira.pdf) 
+  - tipo: dissertação;
+  - autores: Sueli Cruz Pereira, Etereldes Gonçalves Junior;
+  - data: dezembro de 2021;
+
+- nome: [Sequência Fedathi e análise de erros aplicadas ao ensino de frações](https://repositorio.ufc.br/handle/riufc/26755) 
+  - tipo: dissertação;
+  - autores: Virlane Nogueira Melo, Hermínio Borges Neto;
+  - data: 2017;
+  - obs: nao fala de 6 ou 7 ano;
+
+- nome: [Análise de Erros em Frações: um estudo de caso em uma turma do 7º Ano do Ensino Fundamental no contexto do ensino remoto](https://repositorio.ufpb.br/jspui/handle/123456789/22924) 
+  - tipo: TCC;
+  - autores: Letícia Cardoso dos Santos Silva, Graciana Ferreira Dias;
+  - data: dezembro de 2021;
+
+- nome: [UEPS no ensino de matemática: visando a aprendizagem significativa de frações no 6º ano do ensino fundamental](http://repositorio.utfpr.edu.br/jspui/handle/1/35776) 
+  - tipo: tese;
+  - autores: Viviane Barbosa de Souza Huf, Nilcéia Aparecida Maciel Pinheiro;
+  - data: novembro de 2024;
+
+- nome: [O ensino de frações por meio do cubo mágico](http://repositorio.utfpr.edu.br/jspui/handle/1/15847) 
+  - tipo: TCC;
+  - autores: Bruna Ariceli Schirmann Kolling, Renato Francisco Merli;
+  - data: julho de 2019;
+  - obs: nao fala de 6 ano ou 7 ano;
+
+- nome: [O ensino das frações por meio de jogos e aplicativos digitais](http://repositorio.utfpr.edu.br/jspui/handle/1/19910) 
+  - tipo: TCC;
+  - autores: Caroline Witt, Iolanda Bueno de Camargo Cortelazzo;
+  - data: setembro de 2018;
+
+- nome: [Tecnomatemática: site como ferramenta tecnológica para o ensino de frações no 6º ano do ensino fundamental](http://repositorio.utfpr.edu.br/jspui/handle/1/2999) 
+  - tipo: dissertaçao;
+  - autores: Fernanda Mara Cruz, Sani de Carvalho Rutz da Silva;
+  - data: fevereiro de 2017;
+
+- nome: [JOGOS COMO POSSIBILIDADE PARA A MELHORIA DO DESEMPENHO E DAS ATITUDES EM RELAÇÃO ÀS FRAÇÕES E AOS DECIMAIS NOS ANOS FINAIS DO ENSINO FUNDAMENTAL](https://repositorio.unesp.br/bitstream/11449/192109/3/dugaich_vcb_me_bauru.pdf) 
+  - tipo: dissertaçao;
+  - autores: Valéria Cristina Brumati Dugaich;
+  - data: 2020;
+
+- nome: [Gamificação no Ensino de Frações: Um Estudo de Caso](https://intranet.cbt.ifsp.edu.br/qualif/volume07/artigo02_ed_07.pdf) 
+  - tipo: artigo;
+  - autores: Regiane Denise Solgon, João Paulo Lemos Escola;
+  - data: dezembro de 2020;
+  - obs: vale a pena dar uma olhada;
+
+- nome: [Os significados da relação parte/todo, quociente e razão dos números racionais: identificando propostas para aulas de matemática do ensino fundamental com o geogebra ](https://repositorio.ufpb.br/jspui/handle/123456789/1083) 
+  - tipo: TCC;
+  - autores: George Pereira de Sousa, Cibelle de Fátima Castro de Assis;
+  - data: setembro de 2016;
+  - obs: nao fala de anos finais;
+
+- nome: [A utilização de jogos matemáticos no ensino de operações com frações no 6º ano do ensino fundamental em uma escola de Capanema/PA](https://bdm.ufpa.br/handle/prefix/4159) 
+  - tipo: TCC;
+  - autores: Gildson Gomes de Oliveira, Edilberto Oliveira Rozal;
+  - data: maio de 2021;
+
+- nome: [ Jogos matemáticos e sua aplicação no conteúdo de frações das séries finais do Ensino Fundamental ](https://www.cadernosuninter.com/index.php/intersaberes/article/view/1648) 
+  - tipo: artigo;
+  - autores: Jessica dos Santos Andrade, Flavia Sucheck Mateus da Rocha;
+  - data: janeiro de 2021;
+  - obs: vale a pena dar uma olhada;
+
+- nome: [Ensino de frações utilizando o GeoGebra](https://lume.ufrgs.br/handle/10183/134133) 
+  - tipo: artigo; 
+  - autores: Cristina Back Weber, Maria Paula Goncalves Fachin;
+  - data: 2015;
+  - obs: 8 e 9 ano;
+
+- nome: [ MATEMÁTICA E LUDICIDADE: ENSINO CONJUGADO ](https://eventosgrupotiradentes.emnuvens.com.br/enfope/article/view/8780) 
+  - tipo: artigo; 
+  - autores: Crislane dos Santos Muricy,  Analice Alves Marinho,  Débora Costa Chagas Santos;
+  - data: agosto de 2018;
+  - obs: nao fala de anos finais, ou 6 e 7 ano;
+
+- nome: [ O USO DO BARALHO PARA UMA APRENDIZAGEM SOBRE NÚMEROS RACIONAIS ](https://recima21.com.br/index.php/recima21/article/view/1893) 
+  - tipo: artigo;
+  - autores:  Deivid Santos de Almeida, Matheus Melo Lima, Maria Madalena de Queiroz Alves, Kennedy Almeida Sampaio Vieira; 
+  - data: setembro de 2022;
+  - obs: 9 ano, mas vale a pena dar uma olhada;
+
+- nome: [O USO DE TECNOLOGIAS MÓVEIS NO ENSINO DE FRAÇÕES PARA ALUNOS DO ENSINO FUNDAMENTAL NOS ANOS FINAIS](http://dev.siteworks.com.br:8080/jspui/bitstream/123456789/278/1/EDVALDO%20LOPES%20DO%20NASCIMENTO.pdf)  
+  - tipo: dissetaçao;
+  - autores: Edvaldo Lopes do Nascimento, Juliano Schimiguel;
+  - data: 2018;
+
+- nome: [GeoGebra no ensino das frações : uma experiência em escola rural](https://lume.ufrgs.br/handle/10183/134473) 
+  - tipo: artigo;
+  - autores: Maristela Ivanowski, Sergio Dias Assumpcao;
+  - data: 2015;
+
+- nome: [As frações e os jogos matemáticos: uma relação de interação em turmas do 6o ano do ensino fundamental](https://www.repositorio.ufal.br/handle/123456789/9532) 
+  - tipo: dissertaçao;
+  - autores: Uiltamar Miranda da Silva, Givaldo Oliveira dos Santos;
+  - data: abril 2015;
+
+- nome: [Ensino de fração em contexto construcionista utilizando o software Wordwall](https://repositorio.ufc.br/handle/riufc/78491) 
+  - tipo: dissertaçao;
+  - autores: Giovanni Teixeira de Souza, Luciana de Lima;
+  - data: 2024;
+  - obs: fala do 5 ano, mas vale a pena;
+
+- nome: [Transformação de frações em números: uma experiência no Ensino Fundamental](https://www.teses.usp.br/teses/disponiveis/45/45135/tde-17062019-145223/en.php) 
+  - tipo: Dissertaçao;
+  - autores: Izabela Cesario Correa Ananias;
+  - data: fevereiro de 2017;
+
+- nome: [ Ensino dos números racionais a partir de materiais manipuláveis e objetos de aprendizagens ](http://www.rematec.net.br/index.php/rematec/article/view/94) 
+  - tipo: artigo;
+  - autores: José Ronaldo Melo, Elisabeth Machado Bastos;
+  - data: dezembro de 2020;
+
+- nome: [EXPERIÊNCIA DE REGÊNCIA: NÚMEROS RACIONAIS COM O USO DE JODOS DIGITAIS](https://www.editorarealize.com.br/editora/anais/conapesc/2021/TRABALHO_EV161_MD1_SA102_ID1987_26092021152928.pdf) 
+  - tipo: artigo;
+  - autores: Cláudia Daniele da Silva Soares, Maria Fabiana de Freitas Ferreira, Danielly Barbosa de Sousa, Abigail Fregni Lins;
+  - data: novembro de 2021;
+  - obs: nao fala de 6 e 7 ano mas vale a pena dar uma olhada;
+
+- 
+
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -509,21 +652,5 @@ lógico, Inteligência matemática, Criatividade e Aprendizagem](https://www.res
   - autores: Paola Aquino dos Santos, Anderson da Silva Rosa, Ana Marli Bulegon;
   - data: janeiro de 2021;
   - obs: nao fala de fraçao mas vale a pena dar uma olhada;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## BDTD

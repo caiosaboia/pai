@@ -451,6 +451,79 @@ lógico, Inteligência matemática, Criatividade e Aprendizagem](https://www.res
   - data: 2020;
   - obs: nao fala de fraçao;
 
+- nome: [Rigidez triangular: um estudo abordando o uso de material manipulável com o suporte da investigação matemática](https://ojs.ufgd.edu.br/index.php/tangram/article/view/11646) 
+  - tipo: artigo;
+  - autores: Fabiano dos Santos Souza, Mônica Souto da Silva Dias, Hugo Lima Fontenelle Bizerril;
+  - data: setembro de 2022;
+  - obs: nao fala de fraçao, mas é bem interessante;
+
+- nome: [Em tempos de ensino remoto: praticando Matemática no Google Forms a partir de um boletim epidemiológico sobre o Coronavírus-Covid-19](https://periodicos.ifrs.edu.br/index.php/REMAT/article/view/4856) 
+  - tipo: artigo;
+  - autores: Marcos Antônio Guedes Caetano;
+  - data: agosto de 2021;
+  - obs: nao fala de fraçao, mas vale a pena dar uma olhada;
+
+- nome: [EDUCAÇÃO MATEMÁTICA E TECNOLÓGICA: PRODUÇÃO DE VÍDEO DIGITAL NO ANIMAKER](https://www.academia.edu/download/64863554/20_RE_matheussouzadealmeida_Matheus_Almeida.pdf) 
+  - tipo: artigo;
+  - autores: Matheus Souza de Almeida, Sara Rocha da Silva, Ross Alves do Nascimento, Elisângela Bastos de Mélo Espíndola;
+  - data: outubro de 2020;
+  - obs: nao fala de fraçao;
+
+- nome: [Divisão: uma experiência a partir da exploração do algoritmo](https://bdm.ufpa.br/handle/prefix/2959) 
+  - tipo: TCC;
+  - autores: Vitor Marone Teixeira Lisboa, Valéria Risuenho Marques;
+  - data: dezembro 2019;
+  - obs: nao fala de fraçao mas vale a pena dar uma olhada;
+
+- nome: [Atividades de estudo plugadas e desplugadas para a inclusão do Pensamento Computacional junto aos conteúdos de matemática do 6o. ano do Ensino Fundamental](https://econtents.bc.unicamp.br/inpec/index.php/tsc/article/view/15929) 
+  - tipo: artigo;
+  - autores: Jean Alex Custódio Machado, André Zanki Cordenonsi;
+  - data: dezembro de 2021;
+  - obs: nao fala de fraçao;
+
+- nome: [KHAN ACADEMY: TECNOLOGIA FAVORÁVEL À APRENDIZAGEM MATEMÁTICA](https://revistas.pucsp.br/emd/article/view/38385) 
+  - tipo: artigo;
+  - autores: Jonatan Ismael Eisermann, Julhane Alice Thomas Schulz;
+  - data: setembro de 2019;
+  - obs: nao fala de fraçao;
+
+- nome: [O uso de jogos matemáticos no trabalho com o cálculo mental](https://ojs.ufgd.edu.br/index.php/tangram/article/view/12264) 
+  - tipo: artigo;
+  - autores: Fábio Bueno da Silva, Jorge Henrique Gualandi, Pollyana dos Santos;
+  - data: setembro de 2020;
+  - obs: nao fala de fraçao;
+
+- nome: [JOGOS DIGITAIS COMO RECURSO DE ENSINO HÍBRIDO E APRENDIZAGEM REMOTA NA EDUCAÇÃO INFANTIL DE ACORDO COM A BNCC](https://periodicosunimes.unimesvirtual.com.br/index.php/paideia/article/view/1299)
+  - tipo: artigo;
+  - autores: Rita Angelita Farias, Djalma Marques de Messias, Juliano Schimiguel;
+  - data: 2022;
+  - obs: nao fala de fraçao
+
+- nome: [O ensino de equivalência de frações para compreensão das operações de adição e subtração](https://repositorio.ufmg.br/handle/1843/34173) 
+  - tipo: Dissertaçao;
+  - autores: Gesiel Alisson Martinho, Diogo Alves de Faria Reis;
+  - data: março de 2020;
+
+- nome: [Tecnologias Digitais de Informação e Comunicação para o ensino e aprendizagem de Ciências Naturais e Matemática na perspectiva da BNCC](https://rsdjournal.org/index.php/rsd/article/view/12157) 
+  - tipo: artigo;
+  - autores: Paola Aquino dos Santos, Anderson da Silva Rosa, Ana Marli Bulegon;
+  - data: janeiro de 2021;
+  - obs: nao fala de fraçao mas vale a pena dar uma olhada;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## BDTD

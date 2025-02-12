@@ -208,9 +208,9 @@ lógico, Inteligência matemática, Criatividade e Aprendizagem](https://www.res
   - data: junho de 2015;
 
 - nome: [Cálculo mental com números racionais e desenvolvimento do sentido de número](https://quadrante.apm.pt/article/view/23017) 
- - tipo: artigo;
- - autores: Renata Carvalho, João Pedro da Ponte;
- - data: dezembro de 2019;
+  - tipo: artigo;
+  - autores: Renata Carvalho, João Pedro da Ponte;
+  - data: dezembro de 2019;
 
 - nome: [O USO DO APLICATIVO SOCRATIVE COMO FERRAMENTA DE DIAGNÓSTICO E INTERVENÇÃO NO ENSINO DA MATEMÁTICA](https://ciet.ufscar.br/submissao/index.php/ciet/article/view/1573) 
   - tipo: artigo;

@@ -265,9 +265,9 @@ lógico, Inteligência matemática, Criatividade e Aprendizagem](https://www.res
   - data: 2019;
 
 - nome: [APRENDIZAGEM DE FRAÇÕES COM SOFTWARES E APLICATIVOS MATEMÁTICOS ONLINE](https://core.ac.uk/download/pdf/79834333.pdf) 
- - tipo: dissertação;
- - autores: Marcos Henrique Pereira Paiva;
- - data: junho de 2019;
+  - tipo: dissertação;
+  - autores: Marcos Henrique Pereira Paiva;
+  - data: junho de 2019;
 
 - nome: [Frações: Referências para o ensino no 6º ano à luz da Teoria dos Campos Conceituais](https://www.bdtd.uerj.br:8443/handle/1/19097) 
   - tipo: Dissertação;

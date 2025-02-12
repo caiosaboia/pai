@@ -4,10 +4,10 @@
 - Teses (doutorado)
 - Dissetaçao (mestrado)
 - Descritores
-  - "O ensino da fração"
-  - "Frações e PCN"
-  - "BNCC"
-  - "BNCC do 7 ano"
+  - "O ensino da fração" 13.700(resultados)
+  - "Frações e PCN" 17.130(resultados)
+  - "BNCC" 32.200 (resultados)
+  - "BNCC do 7 ano" 27.100(resultados)
 
 - julgar:
   - Ensino fundamental anos finais

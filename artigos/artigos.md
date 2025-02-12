@@ -152,7 +152,7 @@
   - data: janeiro de 2022;
   - obs: Nao fala de frações, mas pode ser interessante.
 
-  - nome [A PRODUÇÃO DE PERFORMANCE MATEMÁTICA DIGITAL A
+- nome [A PRODUÇÃO DE PERFORMANCE MATEMÁTICA DIGITAL A
 PARTIR DA OBRA “O DIABO DOS NÚMEROS](https://scholar.archive.org/work/xmcrd4kajzazjlu3smi35mggyy/access/wayback/http://revistapos.cruzeirodosul.edu.br/index.php/rencima/article/download/2037/1190) 
   - tipo: Artigo;
   - autores: Aline de Lima Brum, Carla Denize Ott Felcher, Celiane Costa Machado, Elaine Corrêa Pereira;

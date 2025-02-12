@@ -220,9 +220,9 @@ lógico, Inteligência matemática, Criatividade e Aprendizagem](https://www.res
 
 
 - nome: [SEQUÊNCIA DIDÁTICA ELETRÔNICA COM A TEMÁTICA NÚMEROS DECIMAIS PARA O 6º ANO DO ENSINO FUNDAMENTAL](https://www.sbembrasil.org.br/periodicos/index.php/EMR-RS/article/view/1516) 
- - tipo: artigo;
- - autores:  Rosana Pinheiro Fiuza, Claudia Lisete Oliveira Groenwald;
- - data: outubro de 2016;
+  - tipo: artigo;
+  - autores:  Rosana Pinheiro Fiuza, Claudia Lisete Oliveira Groenwald;
+  - data: outubro de 2016;
 
 - nome: [Jogo Digital como Auxílio no Estudo da Matemática: Um Estudo de Caso com Estudantes do Ensino Fundamental I](https://sol.sbc.org.br/index.php/wie/article/view/16290) 
   - tipo: artigo;

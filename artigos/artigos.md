@@ -416,34 +416,6 @@ lógico, Inteligência matemática, Criatividade e Aprendizagem](https://www.res
   - data: novembro de 2021;
   - obs: nao fala de 6 e 7 ano mas vale a pena dar uma olhada;
 
-- 
-
-  
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### "BNCC"
 
 - nome: [História da matemática, tecnologias digitais e investigação matemática no ensino de unidades temáticas de matemática da BNCC para o 8º ano](https://bdtd.ibict.br/vufind/Record/UFRN_38bf33c90bbf852b55512277d7876032)

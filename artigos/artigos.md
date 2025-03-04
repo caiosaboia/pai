@@ -626,3 +626,118 @@ lógico, Inteligência matemática, Criatividade e Aprendizagem](https://www.res
   - obs: nao fala de fraçao mas vale a pena dar uma olhada;
 
 ## BDTD
+
+### "O ensino das frações" (79 resultados)
+
+- Nome: [O Ensino de fraçòes para crianças em situaçao de vulnerabilidade](https://bdtd.ibict.br/vufind/Record/UFPL_bdd1f2d10b6a380c7976bbec36d8c37b)
+  - tipo: Dissertaçao;
+  - autores: Francine Lacerda Castro, Rozane da Silveira Alves;
+  - data: 2019;
+
+- Nome: [Investigando o ensino de fraçoes no Ensino Fundamental](https://bdtd.ibict.br/vufind/Record/UEPG_8eca244ab1feff2134f5daac6be16bce)
+  - tipo: Dissertaçao;
+  - autores: Cassia Andressa Rodrigues Pedrozo, Elisangela dos Santos Meza;
+  - data: 2023;
+  
+- Nome: [plataforma digital acessivel para o ensino de fraçoes](https://bdtd.ibict.br/vufind/Record/UNSP_f484dba4d706fcd70f548ea8d2f37d36)
+  - tipo: Dissertaçao;
+  - autores: José Roberto Barbosa Junior;
+  - data: 2022;
+  - obs: não fala de 6,7 e nem anos finais;
+
+- Nome: [O uso de simulaçoes interativas PHET no ensino de fraçoes](https://bdtd.ibict.br/vufind/Record/UCEN_1f44f1023545f6e6d5536466dfea059d)
+  - tipo: Dissertaçao;
+  - autores: Franciele para Belém Makuch, Márcio André Martins;
+  - data: 2016;
+  - ops: nao fala de 6,7 ano ou anos finais.
+
+- Nome: [Sequencia Fedathi e análise de erros aplicadas ao ensino de fraçoes](https://bdtd.ibict.br/vufind/Record/UFC-7_bc0a14964b6487769255f85e60fec719)
+  - tipo: Dissertaçao;
+  - autores: Virlane Nogueira Melo;
+  - data: 2017;
+  - obs: vale a pena dar uma olhada;
+
+- Nome: [O uso de tecnologias moveis no ensino de fraçoes para alunos do ensino fundamental nos anos finais](https://bdtd.ibict.br/vufind/Record/CUB_b29780a75fce343b3b107bad6160171d)
+  - tipo: Dissertaçao;
+  - autores: Edvaldo Lopes do Nascimento;
+  - data: 2019;
+
+- Nome: [Tecnomatemática: site como ferramenta tecnológica para o ensino de fraçoes no 6 ano do ensino fundamental]()
+  - tipo: Dissertaçao;
+  - autores: Fernanda Mara Cruz, Sani de Carvalho Rutz da Silva;
+  - data: 2017;
+
+- Nome: [Uma análise do ensino de fraçoes equivalentes no contexto da pandemia da Covid-19 mediano pela Teoria Antropológica do Didático](https://bdtd.ibict.br/vufind/Record/UFMT_d2b20bc0d8c2b79de467c069ff5bf5f1)
+  - tipo: Dissertaçao;
+  - autores: Mychelly Agnes Marcelo Henrique;
+  - data: 2021;
+
+
+- Nome: [Abordagem de fraçoes equivalentes:"uma experiencia no 6 ano do ensino fundamental"](https://bdtd.ibict.br/vufind/Record/URGS_58b37ee039b33f0fe8d0057a12e2e55c)
+  - tipo: Dissertaçao;
+  - autores: Roseane Nunes Garcia de Souza, Cydara Cavedon Ripoll;
+  - data: 2019;
+  - ops: vale a pena dar uma olhada;
+
+- Nome: [Contribuiçoes do uso das TIC's e de materiais manipulados na superaçao do erro no estudo de fraçoes](https://bdtd.ibict.br/vufind/Record/UFFS_f58e1edf4ab75e9e44846fe206b65f26)
+  - tipo: Dissertaçao;
+  - autores: Tatiéle Carla Costella Simoni, Nilce Fátima Scheffer;
+  - data: 2018;
+  - obs: nao fala de 6, 7 ano e nem anos finais.
+
+- Nome: [Ensino e Aprenidzagem de Fraçoes mediados pela Tecnologia: Uma análise à luz da Teoria dos Campos Conceituais de Vergnaud](https://bdtd.ibict.br/vufind/Record/UFEI_8ed558327541918368db5f8015e2c4ce)
+  - tipo: Dissertaçao;
+  - autores: Ana Carla de Almeida Bolognani;
+  - data: 2015;
+  - obs: nao fala de 6, 7 ano e nem anos finais.
+
+### "Frações e PCN" (5 resultados)
+  
+- Nome: [Investigando o ensino e a aprendizagem de multiplicação de frações: um estudo com alunos do 6º ano](https://bdtd.ibict.br/vufind/Record/URGS_b02de1c41702b9ef7723c78131791d88)
+  - tipo: Dissertaçao;
+  - autores: Daiana dos Santos Oliveira Fischer, Cydara Cavedon Ripoll;
+  - data: 2020;
+  - obs: vale a pena dar uma olhada;
+
+### "BNCC" (89 resultados)
+
+- Nome: [Pensamento computacional integrado à matemática: uma proposta de atividades de estudo para o 6º ano do ensino fundamental II](https://bdtd.ibict.br/vufind/Record/UFSM_a4bbc7f9ef2ebb83f69be98c27c3d413)
+  - tipo: Dissertaçao;
+  - autores: Jean alex Custódio Machado;
+  - data: 2021;
+  - obs: nao fala de fraçao mas vale a pena dar uma olhada;
+
+- Nome: [O uso da linguagem para ensinar frações na transição do quinto para o sexto ano do ensino fundamental](https://bdtd.ibict.br/vufind/Record/USP_295074ab47abaaa967834963d96bfd3c)
+  - tipo: Dissertaçao;
+  - autores:
+  - data: 2022;
+
+- Nome: [Uma aplicação da robótica educacional no estudo do número irracional 'Pi' utilizando LEGO Mindstorm EV3](https://bdtd.ibict.br/vufind/Record/FURG_e3c548d827c79bf94d73d25bb8be877d)
+  - tipo: Dissertaçao;
+  - autores: Tiago Pereira Armão;
+  - ano: 2018;
+  - obs: nao fala de fraçao, mas vale a pena dar uma olhada;
+
+- Nome: [O uso de programação com o Scratch na sala de aula de matemática no ensino básico: um estudo de atividades com possibilidades de utilização no Ensino Fundamental II](https://bdtd.ibict.br/vufind/Record/UFJF_c7ec71aa20033446439ffe14ec08d044)
+  - tipo: Dissertaçao;
+  - autores: Heriléia Mattos da Costa, Leonardo José da Silva;
+  - ano: 2022;
+  - obs: nao fala de fraçao mas vale a pena dar uma olhada;
+
+
+- Nome: [Teorema de Pick e aplicação em jogos geométricos](https://bdtd.ibict.br/vufind/Record/UFG-2_7cec7036a030722d4eb4ded267a279b6)
+  - tipo: Dissertaçao;
+  - autores: Altierre Borges Santos, Ronaldo Antonio dos Santos
+  - ano: 2024;
+  - obs: nao falar de fraçoes nem anos finais, mas é algo interessante;
+
+- Nome: [O uso do Role-Playing Game (RPG) como ferramenta motivacional no ensino da Matemática](https://bdtd.ibict.br/vufind/Record/UFRRJ-1_0fd0a3c3d7a15f0e81016ee0345b7366)
+  - tipo: Dissertaçao;
+  - autores: Robson Ricardo, Cláudio Cesar Saccomori Júnior;
+  - ano: 2020;
+  - obs: nao falar de fraçoes nem anos finais, mas é algo interessante;
+
+### "BNCC e 7 ano" (6 resultados)
+
+- Sem resultado Relevante 
+

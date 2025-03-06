@@ -662,7 +662,7 @@ lógico, Inteligência matemática, Criatividade e Aprendizagem](https://www.res
   - autores: Edvaldo Lopes do Nascimento;
   - data: 2019;
 
-- Nome: [Tecnomatemática: site como ferramenta tecnológica para o ensino de fraçoes no 6 ano do ensino fundamental]()
+- Nome: [Tecnomatemática: site como ferramenta tecnológica para o ensino de fraçoes no 6 ano do ensino fundamental](https://bdtd.ibict.br/vufind/Record/UTFPR-12_eb196deabb56db92d2b42a7a97c38aaf)
   - tipo: Dissertaçao;
   - autores: Fernanda Mara Cruz, Sani de Carvalho Rutz da Silva;
   - data: 2017;
@@ -709,7 +709,7 @@ lógico, Inteligência matemática, Criatividade e Aprendizagem](https://www.res
 
 - Nome: [O uso da linguagem para ensinar frações na transição do quinto para o sexto ano do ensino fundamental](https://bdtd.ibict.br/vufind/Record/USP_295074ab47abaaa967834963d96bfd3c)
   - tipo: Dissertaçao;
-  - autores:
+  - autores:  Isabela Ruiz Cavalcanti de Carvalho;
   - data: 2022;
 
 - Nome: [Uma aplicação da robótica educacional no estudo do número irracional 'Pi' utilizando LEGO Mindstorm EV3](https://bdtd.ibict.br/vufind/Record/FURG_e3c548d827c79bf94d73d25bb8be877d)
